@@ -1,0 +1,19 @@
+### Narrative Foundations – khung chi tiết  
+
+| Trục                     | Câu hỏi khoan sâu                                | Nhánh con cần quyết                                                                                                                                                                                         |
+| ------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Setting**              | Thế giới diễn ra *ở đâu – khi nào – cảm xúc gì?* | • Locale Layer (vùng, quốc gia)<br>• Micro-setting (cabin, quán, VR-room…)<br>• Temporal (kỷ nguyên → năm → khung giờ)<br>• Mood / Atmosphere (ấm cúng, căng thẳng…)<br>• Reality-Layer (Realism → Fantasy) |
+| **Cast / Character Set** | Ai xuất hiện và kết nối ra sao?                  | • Size (solo, duo, ensemble)<br>• Archetype (Hero, Mentor, Trickster…)<br>• Relation (đồng đội, cấp trên, xa lạ…)<br>• Demographic (tuổi, văn hoá)<br>• Agency (pro-active, re-active)                      |
+| **Conflict**             | Lực đối kháng là gì?                             | • Type: Person vs Self / Person vs Person / Person vs Society / Person vs Nature / Person vs Fate<br>• Stakes: Low, Mid, High<br>• Duration: one-shot, arc, season-long                                     |
+| **Objective**            | Đích tới đo được không?                          | • Knowledge-gain · Skill-performance · Emotional-growth · Social-goal · Habit-build<br>• Granularity: micro (1 lesson) vs macro (story-arc)<br>• Reward: nội truyện / ngoại truyện                          |
+| **Genre Twist**          | Thêm hương vị gì?                                | Comedy · Rom-com · Mystery · Thriller · Heist · Sports · Slice-of-life · Musical                                                                                                                            |
+
+---
+
+###    Expression Choices.  
+
+| Trục              | Layer lựa chọn                                                                                                                                                                                                              | Bộ tiêu chí & slider điều chỉnh                                                                |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Tone / Voice**  | Formal ↔ Casual · Warm ↔ Cool · Humorous ↔ Serious · Sincere ↔ Satirical                                                                                                                                                    | Xác định tọa độ duy nhất trên trục “Nhiệt độ” & “Mức nghiêm-túc” → ghi token trong style-guide |
+| **Narrative POV** | 1st · 2nd (“bạn”) · 3rd-limited · Omniscient · Fourth-wall break · Multi-POV                                                                                                                                                | Kiểm nhanh với “flash-script 30s”: câu mở đầu trôi chảy là POV phù hợp                         |
+ 
